@@ -17,7 +17,7 @@ Install the following python package:
     
 Configure the absolute path as value showing location of the certificate situated in server into the system parameter with key pkcs12.
     """,
-    'author': 'PERLUR Group and Optimal4',
+    'author': 'Amevia s.r.o.',
     'price': '50',
     'currency': 'EUR',
     'website': 'https://amevia.eu',

@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
-
+##############################################################################
+#    Copyright (C) 2020 Amevia s.r.o. (<https://amevia.eu/sluzby).
+##############################################################################
 {
     'name': 'EET (CZ)',
     'version': '1.0',
@@ -15,6 +17,10 @@ Install the following python package:
     
 Configure the absolute path as value showing location of the certificate situated in server into the system parameter with key pkcs12.
     """,
+    'author': 'PERLUR Group and Optimal4',
+    'price': '50',
+    'currency': 'EUR',
+    'website': 'https://amevia.eu',
     'category': 'Point Of Sale',
     'depends': ['point_of_sale', 'purchase'],
     'data': [

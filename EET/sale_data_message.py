@@ -1,7 +1,7 @@
 import uuid
 from datetime import datetime
 from lxml import etree
-import pytz
+import pyt
 import hashlib
 from OpenSSL import crypto
 from odoo import _
